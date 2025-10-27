@@ -67,14 +67,21 @@ ollama show SpeakLeash/bielik-11b-v2.3-instruct:Q4_K_M
 
 **Sample Output**:
 ```text
-architecture     mistral
-parameters       11.0B
-quantization     Q4_K_M
-context length   32768
+Model
+    architecture        llama     
+    parameters          11.2B     
+    context length      32768     
+    embedding length    4096      
+    quantization        Q4_K_M    
 
-Capabilities
-  chat
-  completion
+  Capabilities
+    completion    
+
+  Parameters
+    stop           "<|start_header_id|>"    
+    stop           "<|end_header_id|>"      
+    stop           "<|eot_id|>"             
+    temperature    0.2   
 ```
 
 > **Tools (function calling)**: Not supported in GGUF Bielik models
