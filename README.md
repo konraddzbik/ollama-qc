@@ -6,13 +6,8 @@ This guide gets you from **zero to chatting with Bielik** in **under 5 minutes**
 
 ---
 
-## 🚀 Install Ollama (One Command)
-
-```bash
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
- ## Or download directly: [ollama.com/download](https://ollama.com/download)
+## 🚀 Install Ollama
+### Download directly: [ollama.com/download](https://ollama.com/download)
 
 > No signup. No login. Ollama runs 100% locally.
 
