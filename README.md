@@ -1,5 +1,7 @@
 # Ollama Quick Start for macOS 🦙
 
+Ollama locally on macOS — no account, no cloud. Quick-start guide to install, pull Polish LLM Bielik (11B), chat in terminal, and use via OpenAI-compatible API. Includes CLI cheat sheet, troubleshooting, and tool calling tests.
+
 Run **powerful Polish LLMs locally** — **no cloud, no account, no data leaving your Mac**.
 
 This guide gets you from **zero to chatting with Bielik** in **under 5 minutes**.
